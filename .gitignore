@@ -1,0 +1,5 @@
+# Ignore all Rider configs and nested .idea folders
+.idea/
+.idea/**/
+.idea.*.dir/
+.idea.*.dir/**/
