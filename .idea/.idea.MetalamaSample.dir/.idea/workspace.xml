@@ -4,11 +4,7 @@
     <projectFile>MySample/MySample.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bb8e63c-26c1-4c04-92d9-ebf8e87c4afd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MySample/NotifyPropertyChangedAttribute.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySample/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySample/SimpleNotifyPropertyChangedAttribute.cs" afterDir="false" />
-    </list>
+    <list default="true" id="7bb8e63c-26c1-4c04-92d9-ebf8e87c4afd" name="Changes" comment="final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/MySample/Product.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MySample/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MySample/SimpleNotifyPropertyChangedAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MySample/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -38,6 +35,10 @@
     ".NET Project.MySample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
@@ -78,8 +79,33 @@
       <option name="presentableId" value="Default" />
       <updated>1744531922609</updated>
       <workItem from="1744531923979" duration="78000" />
-      <workItem from="1744532013815" duration="150000" />
+      <workItem from="1744532013815" duration="463000" />
     </task>
+    <task id="LOCAL-00001" summary="after changing files">
+      <option name="closed" value="true" />
+      <created>1744532227441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744532227441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="after addding the unversioned file and editing the git ignore">
+      <option name="closed" value="true" />
+      <created>1744532333961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744532333961</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1744532471940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744532471940</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +126,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="after changing files" />
+    <MESSAGE value="after addding the unversioned file and editing the git ignore" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>
